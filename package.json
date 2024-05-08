@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
 
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tsmum/nodejs-hello-world.git"
