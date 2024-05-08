@@ -38,3 +38,4 @@ jobs:
         app-name: '2405070060001008action2cli'
         slot-name: 'production'
         package: .
+
