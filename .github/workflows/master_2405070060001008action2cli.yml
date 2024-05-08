@@ -30,7 +30,7 @@ jobs:
     - name: Login to Azure
       uses: azure/login@v1
       with:
-          creds: ${ secrets.AZURE_CREDENTIALS }  # GitHub Secrets から認証情報を取得
+          creds: ${{ secrets.AZURE_CREDENTIALS }}  # GitHub Secrets から認証情報を取得
   
     - name: 'Deploy to Azure Web App'
       uses: azure/webapps-deploy@v2
