@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
+  "scripts": {
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsmum/nodejs-hello-world.git"
+    "url": "git+https://github.com/tsmum/node-hello0508.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsmum/nodejs-hello-world.git/issues"
+    "url": "https://github.com/tsmum/node-hello0508/issues"
   },
-  "homepage": "https://github.com/tsmum/nodejs-hello-world.git#readme"
-}
+  "homepage": "https://github.com//tsmum/node-hello0508#readme"
